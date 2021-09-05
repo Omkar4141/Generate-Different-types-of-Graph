@@ -10,18 +10,18 @@ The reason behind this project is sometime we use graph for mathematical analysi
 
 # Output
 
-1)Enter details 
+# 1)Enter details 
 
 <img src="https://github.com/Omkar4141/Generate-Different-types-of-Graph/blob/main/1.png">
 
-2)Simple Graph
+# 2)Simple Graph
 
 <img src="https://github.com/Omkar4141/Generate-Different-types-of-Graph/blob/main/2.png">
 
-3)Bar Graph
+# 3)Bar Graph
 
 <img src="https://github.com/Omkar4141/Generate-Different-types-of-Graph/blob/main/3.png">
 
-4)Pie Chart
+# 4)Pie Chart
 
 <img src="https://github.com/Omkar4141/Generate-Different-types-of-Graph/blob/main/4.png">
